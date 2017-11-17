@@ -1,6 +1,6 @@
 # sublime_settings
 
-### Enable emmet for js:
+### Enable emmet in jsx:
 ```
 { "keys": ["tab"], "command": "expand_abbreviation_by_tab", "context":
     [
