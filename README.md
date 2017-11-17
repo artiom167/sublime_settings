@@ -1,7 +1,7 @@
 # sublime_settings
 
-Enable emmet for js:
-
+### Enable emmet for js:
+```
 { "keys": ["tab"], "command": "expand_abbreviation_by_tab", "context":
     [
         { "operand": "source.js", "operator": "equal", "match_all": true, "key": "selector" },
@@ -11,3 +11,4 @@ Enable emmet for js:
         { "match_all": true, "key": "is_abbreviation" }
     ]
 }
+```
